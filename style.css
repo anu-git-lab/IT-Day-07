@@ -1,6 +1,14 @@
 body {
+    background-image: url("https://writerscentremedia.writerscentre.com.au/wp-content/uploads/2020/05/30194357/numbers-head.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+
     text-align: center;
     font-family: Arial, sans-serif;
+    
 }
 
 h1 {
