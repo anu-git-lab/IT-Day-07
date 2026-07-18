@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: blueviolet;
+}
+
+p {
+    margin: 15px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    background-color: skyblue;
+
+}
