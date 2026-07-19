@@ -30,7 +30,7 @@ input {
 button {
     display: block;
     margin: 10px auto;
-    background-color: rgb(235, 135, 148); 
+    /* background-color: rgb(235, 135, 148);  */
 }
 
 .game-box {
