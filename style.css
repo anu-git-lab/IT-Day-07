@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://writerscentremedia.writerscentre.com.au/wp-content/uploads/2020/05/30194357/numbers-head.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuwYYnp9RleeKpi3Z0wy_GVIVwNfe5_WSaDCOPU0QZw&s=10");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-    background-color: rgba(255, 255, 255, 0.8);
+
     margin-bottom: 20px;
     color: blueviolet;
 }
@@ -25,10 +25,21 @@ input {
     display: block;
     margin: 10px auto;
 }
+}
 
 button {
     display: block;
     margin: 10px auto;
-    background-color: skyblue;
+    background-color: rgb(235, 135, 148); 
+}
 
+.game-box {
+    width: 450px;
+    margin: 200px auto;
+    padding: 30px;
+    background: white;
+    border: 2px solid #333;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
